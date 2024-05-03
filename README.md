@@ -5,4 +5,6 @@ Para ejecutar estos archivos de python, necesitamos instalar:
 ## Matplotlib 
 "pip install matplotlib"
 
+Cabe resaltar que para las 3 actividades necesitamos tener instalados Python en nuestras computadoras:
+[PYTHON DOWNLOAD](https://www.python.org/downloads/)
 
